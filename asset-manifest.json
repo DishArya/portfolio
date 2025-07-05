@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/DishArya/portfolio/static/css/main.de681602.css",
+    "main.js": "/DishArya/portfolio/static/js/main.3bf2ee18.js",
+    "index.html": "/DishArya/portfolio/index.html",
+    "main.de681602.css.map": "/DishArya/portfolio/static/css/main.de681602.css.map",
+    "main.3bf2ee18.js.map": "/DishArya/portfolio/static/js/main.3bf2ee18.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.de681602.css",
+    "static/js/main.3bf2ee18.js"
+  ]
+}
